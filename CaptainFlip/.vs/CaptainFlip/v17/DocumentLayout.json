@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F085C17-6873-4AFC-B534-D4E244F4C282}|CaptainFlip\\CaptainFlip.csproj|c:\\users\\marek\\source\\repos\\captainflip\\captainflip\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F085C17-6873-4AFC-B534-D4E244F4C282}|CaptainFlip\\CaptainFlip.csproj|solutionrelative:captainflip\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F085C17-6873-4AFC-B534-D4E244F4C282}|CaptainFlip\\CaptainFlip.csproj|c:\\users\\marek\\source\\repos\\captainflip\\captainflip\\wwwroot\\captainflip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8F085C17-6873-4AFC-B534-D4E244F4C282}|CaptainFlip\\CaptainFlip.csproj|solutionrelative:captainflip\\wwwroot\\captainflip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "CaptainFlip\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\Pages\\Index.razor",
+              "RelativeToolTip": "CaptainFlip\\Pages\\Index.razor",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAAAAUBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T15:17:32.766Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaptainFlip.css",
+              "DocumentMoniker": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\CaptainFlip.css",
+              "RelativeDocumentMoniker": "CaptainFlip\\wwwroot\\CaptainFlip.css",
+              "ToolTip": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\CaptainFlip.css",
+              "RelativeToolTip": "CaptainFlip\\wwwroot\\CaptainFlip.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-19T15:46:31.396Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

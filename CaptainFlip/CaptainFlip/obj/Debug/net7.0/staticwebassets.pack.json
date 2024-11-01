@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\obj\\Debug\\net7.0\\compressed\\tlu9o98oc9.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\CaptainFlip.css",
+      "PackagePath": "staticwebassets\\CaptainFlip.css"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\bocianieGniazdo.jpg",
+      "PackagePath": "staticwebassets\\Images\\bocianieGniazdo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\bombardier.jpg",
+      "PackagePath": "staticwebassets\\Images\\bombardier.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\ciesla.jpg",
+      "PackagePath": "staticwebassets\\Images\\ciesla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\kapitanFlipTlo.jpg",
+      "PackagePath": "staticwebassets\\Images\\kapitanFlipTlo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\kartograf.jpg",
+      "PackagePath": "staticwebassets\\Images\\kartograf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\kucharz.jpg",
+      "PackagePath": "staticwebassets\\Images\\kucharz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\majtek.jpg",
+      "PackagePath": "staticwebassets\\Images\\majtek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\malpa.jpg",
+      "PackagePath": "staticwebassets\\Images\\malpa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\mapa.jpg",
+      "PackagePath": "staticwebassets\\Images\\mapa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\nawigator.jpg",
+      "PackagePath": "staticwebassets\\Images\\nawigator.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\papuga.jpg",
+      "PackagePath": "staticwebassets\\Images\\papuga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\Images\\plansza1.jpg",
+      "PackagePath": "staticwebassets\\Images\\plansza1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CaptainFlip.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CaptainFlip.props",
+      "PackagePath": "build\\CaptainFlip.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CaptainFlip.props",
+      "PackagePath": "buildMultiTargeting\\CaptainFlip.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CaptainFlip.props",
+      "PackagePath": "buildTransitive\\CaptainFlip.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
