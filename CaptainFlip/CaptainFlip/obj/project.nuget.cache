@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ry9iQRTUjcU=",
+  "dgSpecHash": "7oZCk9aCEeM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marek\\source\\repos\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
+  "projectFilePath": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marek\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.19\\microsoft.aspnetcore.authorization.7.0.19.nupkg.sha512",
     "C:\\Users\\marek\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.19\\microsoft.aspnetcore.components.7.0.19.nupkg.sha512",

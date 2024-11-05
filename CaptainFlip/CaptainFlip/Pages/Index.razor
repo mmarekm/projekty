@@ -111,7 +111,15 @@
                 {
                     var graczIndex = i;
                     <div class="gracz gracz@(graczIndex + 1)">
-                        <h3>@gracze[graczIndex].Nazwa : @gracze[graczIndex].Punkty</h3>
+                        <h3><span style="color: red; font-size: 4.5vh;">@gracze[graczIndex].Nazwa</span></h3>
+                        <h3><span style="color: white; font-size: 3.5vh;">Punkty z planszy: @gracze[graczIndex].Punkty</span></h3>
+                        <h3>Majtkowie: @gracze[graczIndex].KoncoweMajtek()</h3>
+                        <h3>Bocianie gniazda: @gracze[graczIndex].KoncoweBocianieGniazdo()</h3>
+                        <h3>Cieśle: @gracze[graczIndex].KoncoweCiesli()</h3>
+                        <h3>Papugi: @gracze[graczIndex].KoncowePapugi()</h3>
+                        <h3><span style="color: white; font-size: 3.5vh;">Suma dodatkowych punktów: @gracze[graczIndex].SumaKoncowych()</span></h3>
+                        <h3>@gracze[graczIndex].KomentarzBombardiera()</h3>
+                        <h3><span style="color: red; font-size: 4.5vh;">@gracze[graczIndex].OstatecznePunkty()</span></h3>
                         <div class="mapa @(gracze[graczIndex].PosiadaczMapy ? "" : "hidden")">
                             <img src="/Images/mapa.jpg" />
                         </div>
@@ -256,26 +264,21 @@
                         </div>
                     </div>
                 }
-            </div>
-            <div class="@(widocznePodsumowanie ? "" : "hidden")">
-                <p>@debugowanieBocianieGniazdo</p>
-                <p>@debugowanieCiesla</p>
-                <p>@debugowanieMajtek</p>
-                <p>@debugowaniePapuga</p>
-                <p>@debugowanieSumaKoncowych</p>
-                <p>@debugowanieBombardier</p>          
-            </div>
+            </div>           
         }       
+    </div>
+    <div class="@(widocznaPunktacja ? "" : "hidden")">
+        <div style="margin-left: 20px; margin-top: 20px;">
+        @for (int i = 1; i <= gracze.Count; i++)
+        {
+            <h3 style="color: white;">@gracze[i - 1].Nazwa - @gracze[i - 1].OstatecznePunkty() punktów @gracze[i - 1].Interpunkcja @gracze[i - 1].ZMapa</h3>
+        }
+        </div>
     </div>
 </div>
 
 @code {
-    private string debugowanieBocianieGniazdo = "";
-    private string debugowanieBombardier = "";
-    private string debugowanieCiesla = "";
-    private string debugowanieMajtek = "";
-    private string debugowaniePapuga = "";
-    private string debugowanieSumaKoncowych = "";
+    private string punktacja = "";
     private int liczbaGraczy = 0;
     private bool widocznyBefore = true;
     private bool widocznyStart = true;
@@ -285,7 +288,7 @@
     private bool widocznaKolejka = false;
     private bool widoczneDzialanieMalpy = false;
     private bool widocznyGuzikOdwrocenia = false;
-    private bool widocznePodsumowanie = true;
+    private bool widocznaPunktacja = false;
     private bool czyOdwroconaPlytka;
     private int kolejGracza = 0;
     private List<Gracz> gracze = new List<Gracz>();
@@ -343,13 +346,23 @@
         var (finalnaKolumna, finalnyWiersz) = MiejsceNowejPlytki(kolumna);
         kolumnaPlytki = finalnaKolumna;
         wierszPlytki = finalnyWiersz;
+        if (kolumnaPlytki == 1 && wierszPlytki == 2)
+        {
+            gracze[kolejGracza].Szczyty++;
+        }
+        if (kolumnaPlytki == 4 && wierszPlytki == 4)
+        {
+            gracze[kolejGracza].Szczyty++;
+        }
         if (kolumnaPlytki == 3 && wierszPlytki == 5)
         {
             gracze[kolejGracza].Punkty += 5;
+            gracze[kolejGracza].Szczyty++;
         }
         if (kolumnaPlytki == 5 && wierszPlytki == 3)
         {
             gracze[kolejGracza].Punkty += 3;
+            gracze[kolejGracza].Szczyty++;
         }
         if (kolumnaPlytki == 2 && wierszPlytki == 3)
         {
@@ -358,6 +371,7 @@
                 gracz.PosiadaczMapy = false;
             }
             gracze[kolejGracza].PosiadaczMapy = true;
+            gracze[kolejGracza].Szczyty++;
         }
         if (finalnyWiersz == -1) return;
         var widocznyMarynarz = wszystkiePlytki.WyswietlonaStrona(wylosowanaPlytka);
@@ -388,26 +402,40 @@
     }
     private void ZakonczenieRuchu()
     {
-        
+        bool koncowka = false;
         if (gracze[kolejGracza].PosiadaczMapy)
         {
             gracze[kolejGracza].Punkty += 1;
         }
-        widocznaKolejka = false;
-        widocznyRozpocznijRuch = true;
-
-        gracze[kolejGracza].PunktyZPlanszy = gracze[kolejGracza].Punkty;
-        string SumaOgolna = (gracze[kolejGracza].PunktyZPlanszy + SumaKoncowych()).ToString();
-        debugowanieBocianieGniazdo = $"punkty z Bocianiego Gniazda na koniec to {KoncoweBocianieGniazdo()},\n";
-        debugowanieCiesla = $"punkty z Cieśli na koniec to {KoncoweCiesli()},\n";
-        debugowanieMajtek = $"punkty z Majtków na koniec to {KoncoweMajtek()},\n";
-        debugowaniePapuga = $"ujemne punkty za Papugi na koniec to {KoncowePapugi()},\n\n";
-        debugowanieSumaKoncowych = $"wszystkie ekstra punkty na koniec to {SumaKoncowych()}, ostateczna liczba punktów to {SumaOgolna}\n\n";
-        debugowanieBombardier = $"efekt Bombardiera na koniec to {KoncoweBombardiera()},";
-
-        kolejGracza = (kolejGracza + 1) % gracze.Count;
-        wylosowanaPlytka = null;
-        StateHasChanged();
+        for (int i = 0; i < gracze.Count; i++)
+        {
+            if (gracze[i].Szczyty >= 4)
+            {
+                koncowka = true;
+            }
+        }
+        if (koncowka && kolejGracza == gracze.Count - 1)
+        {
+            KoniecGry();
+        }
+        else
+        {
+            widocznaKolejka = false;
+            widocznyRozpocznijRuch = true;
+            gracze[kolejGracza].PunktyZPlanszy = gracze[kolejGracza].Punkty;
+            kolejGracza = (kolejGracza + 1) % gracze.Count;
+            wylosowanaPlytka = null;
+            StateHasChanged();
+        }
+    }
+    private void KoniecGry()
+    {
+        widocznyAfter = false;
+        widocznaPunktacja = true;
+        for (int i = 1; i <= gracze.Count; i++)
+        {
+            punktacja += $"Gracz nr {i} zdobył {gracze[i - 1].OstatecznePunkty} punktów!";
+        }
     }
     private void EfektMarynarza(int enumMarynarza)
     {
@@ -540,18 +568,17 @@
                 }
                 break;
         }
-
     }
-    private void MalpaOdwracaPlytke(int kolumna, int wiersz)
+    private void MalpaOdwracaPlytke(int kolumnaTablicaMalpa, int wierszTablicaMalpa)
     {
         widoczneDzialanieMalpy = false;
-        int kolumnaMapa = kolumna + 1;
-        int wierszMapa = wiersz + 1;
+        int kolumnaMapa = kolumnaTablicaMalpa + 1;
+        int wierszMapa = wierszTablicaMalpa + 1;
         if (gracze[kolejGracza].Plansza.TryGetValue((kolumnaMapa, wierszMapa), out var pozycjaPlytki))
         {
             pozycjaPlytki.CzyOdwrocona = !pozycjaPlytki.CzyOdwrocona;
             int nowyMarynarz = (int)pozycjaPlytki.WyswietlonyMarynarz;
-            gracze[kolejGracza].TablicaPlansza[kolumna, wiersz] = nowyMarynarz;
+            gracze[kolejGracza].TablicaPlansza[kolumnaTablicaMalpa, wierszTablicaMalpa] = nowyMarynarz;
             StateHasChanged();
             var efektyMarynarzy = new List<int> { 2, 4, 8, 9 };
             if (efektyMarynarzy.Contains(nowyMarynarz))
@@ -560,119 +587,18 @@
             }
             else if (nowyMarynarz == 5)
             {
-                EfektKucharza(wiersz);
+                EfektKucharza(wierszTablicaMalpa);
             }
             else if (nowyMarynarz == 7)
             {
-                EfektMalpy(kolumna, wiersz);
+                kolumnaPlytki = kolumnaMapa;
+                wierszPlytki = wierszMapa;
+                EfektMalpy(kolumnaTablicaMalpa, wierszTablicaMalpa);
             }
             else
             {
                 ZakonczenieRuchu();
             }
         }
-    }
-    private int SumaKoncowych() => KoncoweBocianieGniazdo() + KoncoweCiesli() + KoncoweMajtek() + KoncowePapugi();
-    private int KoncoweBocianieGniazdo()
-    {
-        int naBocianimGniezdzie = 0;
-        if (gracze[kolejGracza].TablicaPlansza[0, 1] == 1)
-        {
-            naBocianimGniezdzie++;
-        }
-        if (gracze[kolejGracza].TablicaPlansza[1, 2] == 1)
-        {
-            naBocianimGniezdzie++;
-        }
-        if (gracze[kolejGracza].TablicaPlansza[2, 4] == 1)
-        {
-            naBocianimGniezdzie++;
-        }
-        if (gracze[kolejGracza].TablicaPlansza[3, 3] == 1)
-        {
-            naBocianimGniezdzie++;
-        }
-        if (gracze[kolejGracza].TablicaPlansza[4, 2] == 1)
-        {
-            naBocianimGniezdzie++;
-        }
-        return 4 * naBocianimGniezdzie;
-    }
-    private int KoncoweCiesli()
-    {
-        int zliczaczCiesli = 0;
-        for (int i = 0; i < 5; i++)
-        {
-            for (int j = 0; j < 5; j++)
-            {
-                if (gracze[kolejGracza].TablicaPlansza[i, j] == 3)
-                {
-                    bool brakPirata = true;
-                    for (int k = 0; k < 5; k++)
-                    {
-                        if (gracze[kolejGracza].TablicaPlansza[i, k] == 2 || gracze[kolejGracza].TablicaPlansza[k, j] == 2)
-                        {
-                            brakPirata = false;
-                        }
-                    }
-                    if (brakPirata)
-                    {
-                        zliczaczCiesli++;
-                    }
-                }
-            }
-        }
-        return 3 * zliczaczCiesli;
-    }
-    private int KoncoweMajtek()
-    {
-        int zliczaczMajtkow = 0;
-        for (int i = 0; i < 5; i++)
-        {
-            for (int j = 0; j < 5; j++)
-            {
-                if (gracze[kolejGracza].TablicaPlansza[i, j] == 6)
-                {
-                    zliczaczMajtkow++;
-                    break;
-                }
-            }
-        }
-        return (int)Math.Pow(zliczaczMajtkow, 2);
-    }
-    private int KoncowePapugi()
-    {
-        int zliczaczPapug = 0;
-        for (int i = 0; i < 5; i++)
-        {
-            for (int j = 0; j < 5; j++)
-            {
-                if (gracze[kolejGracza].TablicaPlansza[i, j] == 9)
-                {
-                    zliczaczPapug++;
-                }
-            }
-        }
-        return -zliczaczPapug;
-    }
-    private (string komentarz, int punkty) KoncoweBombardiera()
-    {
-        bool zerowanie = false;
-        int zliczaczBombardierow = 0;
-        for (int i = 0; i < 5; i ++)
-        {
-            for (int j = 0; j < 5; j ++)
-            {
-                if (gracze[kolejGracza].TablicaPlansza[i,j] == 2)
-                {
-                    zliczaczBombardierow++;
-                }
-            }
-        }
-        if (zliczaczBombardierow >= 3)
-        {
-            zerowanie = true;
-        }
-        return zerowanie ? ("bum", 0) : ("spokój", gracze[kolejGracza].PunktyZPlanszy + SumaKoncowych());
     }
 }

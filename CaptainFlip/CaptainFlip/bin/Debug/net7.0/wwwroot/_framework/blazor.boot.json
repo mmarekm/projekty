@@ -1,7 +1,7 @@
 {
   "entryAssembly": "CaptainFlip",
   "resources": {
-    "hash": "sha256-8WaXzXsjbXOC08NB3lNOFo0Uj2BDcl+bFAR/kxoY/d8=",
+    "hash": "sha256-ehHNaSD4NYU3qqTj3MeZj87d/SiUzXlJ08k6l8dqATA=",
     "runtime": {
       "dotnet.7.0.20.njh7q36myg.js": "sha256-eaJTmow4t8eE7FZMZR5Ja41JMOefGCbIYDTdpclGsac=",
       "dotnet.timezones.blat": "sha256-gbATD5HDsHYtW8vdPYh9iSBY4O5CjvMeCSF5xXWF1xo=",
@@ -202,10 +202,10 @@
       "mscorlib.dll": "sha256-HYyp9hO+GKFyupcEiY1PxtBBXbHzefsO3Q8RiQTaNCA=",
       "netstandard.dll": "sha256-N5CcC3sLzGBesbmeJAp5bwxABN9u7SwkIO5qfFjzoik=",
       "System.Private.CoreLib.dll": "sha256-bJS1DJmhjP7PvegYG+Z8O9EDtRY78HKinA3LUMVLlSQ=",
-      "CaptainFlip.dll": "sha256-NzXxAZzX7SN+zrhVTPpg6emmQZmSoP6kV3Cm9ATxn5g="
+      "CaptainFlip.dll": "sha256-t5sLGrr/3FZoIwi11GvOd63HP73Rj/aW9n512jswpk0="
     },
     "pdb": {
-      "CaptainFlip.pdb": "sha256-17S4DNkdEnkVVFaw4PAqoffrFnlP1KJf3KWd12/Jyas="
+      "CaptainFlip.pdb": "sha256-mnWN5Z4G7YKNZZTh3XSi1sB/8FmmkLbkJF8p4no20Uw="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

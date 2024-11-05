@@ -264,8 +264,12 @@ white-space: nowrap;
 }
 .gracz h3 {
     color: lightgoldenrodyellow;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);   
+    font-size: 2.5vh;
+}
+.gracz p {
+    color: lightgoldenrodyellow;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    
     font-size: 2.5vh;
 }
 .plansza {
@@ -322,4 +326,8 @@ white-space: nowrap;
     max-width: 76px;
     max-height: 76px;
     opacity: 0.7;
+}
+.koniec
+{
+    border: 5px solid red;
 }
