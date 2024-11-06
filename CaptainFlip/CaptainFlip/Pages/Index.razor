@@ -268,11 +268,14 @@
         }       
     </div>
     <div class="@(widocznaPunktacja ? "" : "hidden")">
-        <div style="margin-left: 20px; margin-top: 20px;">
-        @for (int i = 1; i <= gracze.Count; i++)
-        {
-            <h3 style="color: white;">@gracze[i - 1].Nazwa - @gracze[i - 1].OstatecznePunkty() punktów @gracze[i - 1].Interpunkcja @gracze[i - 1].ZMapa</h3>
-        }
+        <div class="koniec">
+            <span style="margin: 30px; letter-spacing: 7px; font-size: 5vh; color: cyan;">KONIEC GRY</span>
+            @foreach (var gracz in gracze.OrderByDescending(g => g.OstatecznePunkty()).ThenByDescending(g => g.PosiadaczMapy).ThenBy(g => g.Nazwa))
+            {
+                <h3 style="color: white;">
+                    @gracz.Nazwa - @gracz.OstatecznePunkty() punktów @gracz.Interpunkcja @gracz.ZMapa
+                </h3>
+            }
         </div>
     </div>
 </div>
@@ -534,7 +537,14 @@
     }
     private void EfektPapugi()
     {
-        RozpocznijRuch();
+        if (gracze[kolejGracza].Szczyty != 5)
+        {
+            RozpocznijRuch();
+        }
+        else
+        {
+            ZakonczenieRuchu();
+        }
     }
     private void DzialanieMalpy(Kierunek kierunek)
     {
