@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rut17CzZVE4=",
+  "dgSpecHash": "7oZCk9aCEeM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
+  "projectFilePath": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marek\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.19\\microsoft.aspnetcore.authorization.7.0.19.nupkg.sha512",
     "C:\\Users\\marek\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.19\\microsoft.aspnetcore.components.7.0.19.nupkg.sha512",
@@ -36,5 +36,12 @@
     "C:\\Users\\marek\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\marek\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.20\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.20.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Podczas pobierania danych o lukach w zabezpieczeniach pakietu wystąpił błąd: Nie można załadować indeksu usługi dla źródła https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

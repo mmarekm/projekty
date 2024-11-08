@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaptainFlip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b8ad7afd5179e47b045cb956227db0c85f944b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaptainFlip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaptainFlip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

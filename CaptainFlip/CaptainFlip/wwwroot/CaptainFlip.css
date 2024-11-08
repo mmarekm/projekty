@@ -22,7 +22,7 @@ html, body {
 #all {
     background-color: deepskyblue;
     background-image: url('Images/kapitanFlipTlo.jpg');
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;

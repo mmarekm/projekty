@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj": {}
+    "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj": {
+    "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
+        "projectUniqueName": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
         "projectName": "CaptainFlip",
-        "projectPath": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
+        "projectPath": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
         "packagesPath": "C:\\Users\\marek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\obj\\",
+        "outputPath": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1965,11 +1965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
+      "projectUniqueName": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
       "projectName": "CaptainFlip",
-      "projectPath": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
+      "projectPath": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\CaptainFlip.csproj",
       "packagesPath": "C:\\Users\\marek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\obj\\",
+      "outputPath": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2066,5 +2066,13 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Podczas pobierania danych o lukach w zabezpieczeniach pakietu wystąpił błąd: Nie można załadować indeksu usługi dla źródła https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
