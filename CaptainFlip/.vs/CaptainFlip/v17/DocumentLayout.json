@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\",
+  "WorkspaceRootPath": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F085C17-6873-4AFC-B534-D4E244F4C282}|CaptainFlip\\CaptainFlip.csproj|c:\\users\\marek\\desktop\\projekty github\\captainflip\\captainflip\\wwwroot\\captainflip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8F085C17-6873-4AFC-B534-D4E244F4C282}|CaptainFlip\\CaptainFlip.csproj|c:\\users\\marek\\desktop\\work\\captainflip\\captainflip\\wwwroot\\captainflip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8F085C17-6873-4AFC-B534-D4E244F4C282}|CaptainFlip\\CaptainFlip.csproj|solutionrelative:captainflip\\wwwroot\\captainflip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F085C17-6873-4AFC-B534-D4E244F4C282}|CaptainFlip\\CaptainFlip.csproj|c:\\users\\marek\\desktop\\projekty github\\captainflip\\captainflip\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F085C17-6873-4AFC-B534-D4E244F4C282}|CaptainFlip\\CaptainFlip.csproj|c:\\users\\marek\\desktop\\work\\captainflip\\captainflip\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F085C17-6873-4AFC-B534-D4E244F4C282}|CaptainFlip\\CaptainFlip.csproj|solutionrelative:captainflip\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -24,24 +24,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\Pages\\Index.razor",
+              "DocumentMoniker": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "CaptainFlip\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\Pages\\Index.razor",
               "RelativeToolTip": "CaptainFlip\\Pages\\Index.razor",
               "ViewState": "AQIAAAgBAAAAAAAAAAAAAA0BAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-19T15:17:32.766Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CaptainFlip.css",
-              "DocumentMoniker": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\wwwroot\\CaptainFlip.css",
+              "DocumentMoniker": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\wwwroot\\CaptainFlip.css",
               "RelativeDocumentMoniker": "CaptainFlip\\wwwroot\\CaptainFlip.css",
-              "ToolTip": "C:\\Users\\marek\\Desktop\\projekty gitHub\\CaptainFlip\\CaptainFlip\\wwwroot\\CaptainFlip.css",
+              "ToolTip": "C:\\Users\\marek\\Desktop\\work\\CaptainFlip\\CaptainFlip\\wwwroot\\CaptainFlip.css",
               "RelativeToolTip": "CaptainFlip\\wwwroot\\CaptainFlip.css",
-              "ViewState": "AQIAAAgBAAAAAAAAAAAAABsBAAARAAAA",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAAABoBAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-19T15:46:31.396Z",
               "IsPinned": true,

@@ -1,0 +1,1653 @@
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\blazor.boot.json
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\CaptainFlip.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\CaptainFlip.pdb
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.7.0.20.njh7q36myg.js
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.wasm
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\mscorlib.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\netstandard.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Console.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Core.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Memory.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Web.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Windows.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\CaptainFlip.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.7.0.20.njh7q36myg.js.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\CaptainFlip.pdb.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\Images\mapa.jpg
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\Images\plansza1.jpg
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\CaptainFlip.staticwebassets.runtime.json
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\CaptainFlip.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\CaptainFlip.pdb
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.JSInterop.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Pipelines.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.CSharp.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.VisualBasic.Core.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.VisualBasic.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Win32.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Win32.Registry.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.AppContext.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Buffers.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Collections.Concurrent.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Collections.Immutable.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Collections.NonGeneric.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Collections.Specialized.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Collections.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.Annotations.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.TypeConverter.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Configuration.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Console.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Core.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Data.Common.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Data.DataSetExtensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Data.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.Contracts.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.Debug.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.Process.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.StackTrace.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.Tools.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.TraceSource.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.Tracing.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Drawing.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Drawing.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Dynamic.Runtime.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Formats.Asn1.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Formats.Tar.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Globalization.Calendars.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Globalization.Extensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Globalization.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Compression.Brotli.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Compression.FileSystem.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Compression.ZipFile.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Compression.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.FileSystem.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.FileSystem.Watcher.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.FileSystem.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.IsolatedStorage.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.MemoryMappedFiles.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Pipes.AccessControl.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Pipes.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Linq.Expressions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Linq.Parallel.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Linq.Queryable.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Linq.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Memory.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Http.Json.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Http.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.HttpListener.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Mail.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.NameResolution.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.NetworkInformation.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Ping.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Quic.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Requests.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Security.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.ServicePoint.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Sockets.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.WebClient.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.WebHeaderCollection.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.WebProxy.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.WebSockets.Client.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.WebSockets.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Numerics.Vectors.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Numerics.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ObjectModel.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Private.DataContractSerialization.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Private.Uri.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Private.Xml.Linq.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Private.Xml.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.DispatchProxy.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Emit.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Extensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Metadata.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.TypeExtensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Resources.Reader.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Resources.ResourceManager.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Resources.Writer.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Extensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Handles.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.InteropServices.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Intrinsics.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Loader.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Numerics.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Serialization.Json.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Serialization.Xml.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Serialization.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.AccessControl.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Claims.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.Cng.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.Csp.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.Encoding.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.Primitives.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Principal.Windows.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Principal.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.SecureString.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ServiceModel.Web.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ServiceProcess.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.Encoding.Extensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.Encoding.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.Encodings.Web.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.Json.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.RegularExpressions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Channels.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Overlapped.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Tasks.Extensions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Tasks.Parallel.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Tasks.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Thread.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.ThreadPool.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Timer.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Transactions.Local.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Transactions.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ValueTuple.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Web.HttpUtility.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Web.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Windows.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.Linq.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.ReaderWriter.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.Serialization.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.XDocument.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.XPath.XDocument.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.XPath.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.XmlDocument.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.XmlSerializer.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\WindowsBase.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\mscorlib.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\netstandard.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Private.CoreLib.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\dotnet.js
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\dotnet.timezones.blat
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\dotnet.wasm
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\icudt_CJK.dat
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\icudt_EFIGS.dat
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\bin\Release\net7.0\icudt_no_CJK.dat
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.csproj.AssemblyReference.cache
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.AssemblyInfo.cs
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.sourcelink.json
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\blazor.build.boot-extension.json
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\blazor.boot.json
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets.build.json
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets.development.json
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets\msbuild.CaptainFlip.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets\msbuild.build.CaptainFlip.props
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.CaptainFlip.props
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.CaptainFlip.props
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets.pack.json
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\scopedcss\bundle\CaptainFlip.styles.css
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\tlu9o98oc9.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9wxo3tqkfu.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\6u5cfxf5i5.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xf4l87xgx7.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\sowl77zqsp.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\f93x9z8lo1.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\b7sgpiwjgw.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\97iax4bdam.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\19gf8imjp5.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\4c052vaeak.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ergc91u049.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\1f0rhqh435.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\nkhql09mnz.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\yc2v4wc4q0.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\yi4feyasb4.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\4lmfvoika1.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\w6jn41pcsd.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\wjnndzjs4r.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\7mblvnh290.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\y8ojn8dosn.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\1dsyyk5wcz.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\f1tesrrq46.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zh7zl4p2xd.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\yp8l36iqe9.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\93bok834hn.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ces9k2qvyi.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\22bvqlgc59.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xf9wvie459.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2uo11gcpyz.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\vm86savkf1.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\qmemtru5co.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\wx7dt97i2l.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zxwcposgfw.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9k4absl5js.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\68nlkza9xk.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\hdo7ti9273.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\7778v5n6mc.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\aryoiuov71.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zuwyr4zxu3.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zx17ukqvqz.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\mib4uhjovq.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\o1psxmcqlz.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\uuwcw5e7pt.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\92u4s0tg8z.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\mh5qenmqds.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\t4jy2dgug1.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\7mi1fpqn9l.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ylwo1vy813.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xrw55t10km.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ckhnu8au6b.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\x9v6t788xh.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\m1hnjkko79.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\gd7ersibf1.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\hecn4argdq.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\l8vs6s80pe.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ya436jxjyn.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\w78v43mjmo.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xblvk13v0g.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\1ckxvd9h77.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\jpj55wp5ay.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\f5wfyjjsjw.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\tzyc8j20dt.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\rlnh6djjea.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pwg61ke9df.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\k9y2a1uemc.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\tqo3e0ujhm.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\bp4826tvxs.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\vn3qkdx5tn.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9w1y933tzp.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zk3bka2cj2.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\e5jet0qsx3.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\jv646f9ogu.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\3veiy44u81.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\x8fltfd3wx.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\dje38m6ycp.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\srl83tgj2j.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9vndf31gp0.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\sz4kvqwlan.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\bwle64zum3.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\exmpple3wh.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2f9cfz1jqy.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\yqxlebixo1.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2g6t6ulkxk.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\am4sw01bwk.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\achh6q1x70.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\40v2elouqz.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\fmmzlxon1j.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\nsi75j4kaz.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\le811xhlqv.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\59dszkddjf.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\77lw1yz44t.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\gwpq02ju7s.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\njxyk72agu.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\jja7vxea5y.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\lms15aw5yi.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\z77j28l6gu.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ckzae17ciw.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\jzp3q86eg7.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xbv0gajmdk.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2rei2oo51a.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\yje1krspoc.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\hawmypgti6.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\73wuy243j7.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2k4x35peye.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2z42eh1x2w.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\d8ozyevhml.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\nt3jdqivi4.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\fnxqrde1tv.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\b3p7tacpsi.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\kiebc8jth1.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\cm7h8u4b66.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\u6c26ycrlm.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zkmjk6afcl.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\f8ja4tyufa.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\c93py74t4n.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ywao3wark9.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xkiyass99w.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ul36640lrj.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\53l29tsc7i.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\abkfrr9m1s.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\5zqfs18lh2.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\1eb75jo5uz.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\d68dndd2ml.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\otvf9mpwno.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\nsu7f5bx39.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\diqq1heoob.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\drmdju7k50.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\umq5ok380q.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\j7asxqlej4.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\lr51t0aef9.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\a67ht8zm9b.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ps3vvtevwf.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pjsdre02l2.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\8i7jf74p7o.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\7uik1ozlq4.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xr3ph0wqv1.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\mfu56z4sam.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\60yv2kzi02.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\1gyt8a5sq5.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\qci4b4di7k.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\8xtso888rh.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\a1osx3hswf.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\46qiqugagf.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\sxnbkt9b0n.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\l6ert9mzqw.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9twzdu9jx3.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\nc2ccp556h.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\84gjk988gv.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\fdc9ro9new.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xkznn5zj7m.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\tggkpxsevg.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pcbd7nj7sc.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\y44ayvmqqo.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\mw5a265wqf.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\78jbo6cx3h.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\kp3pxe8ldi.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zivkarry9j.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\uhbof3bxz0.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\x6ukn1w4r7.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\0w3o8v877p.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\iroi5783zn.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pqfyn2tjdk.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\6udeubpymp.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\fl9dfp6ixk.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\0e1bvrlhe6.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ca46dr0m1w.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9xr3j3jjqf.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\psqw48nimh.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\691nofgg5c.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\85qh79aqqu.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\gis7781acg.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\vt97u17q7v.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\soj2w1wuv1.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ymolbuvjxl.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\96yw8vmkeu.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\p1mmnccxk5.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\cbt1o1ra8m.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\0hmy363v9x.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\traxznhcp2.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pjpsyji99k.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\r6xpu0r6qx.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\smslhg6inu.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\14jaluztl2.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\d5h2hlpa3b.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\a3ku3sflfs.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\5dqiwhaojv.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\a5c0yxd0t6.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ratvst71ym.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\wfrj5unhxp.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\byo4dseqt1.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\vvmenqtm5h.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\c8mefipnev.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\njh7q36myg.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\gzu9tptcsg.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\53w8f9pr9i.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\qnco0g6fwi.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\l8t5s4oiyl.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\4x9dwtk7b8.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\jfs00sexm2.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ouqz6jvs9q.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pdh2x0v428.gz
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainF.2E06EDBB.Up2Date
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\refint\CaptainFlip.dll
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.pdb
+C:\Users\marek\Desktop\projekty gitHub\CaptainFlip\CaptainFlip\obj\Release\net7.0\ref\CaptainFlip.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.7.0.20.njh7q36myg.js
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.wasm
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\mscorlib.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\netstandard.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Console.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Core.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Memory.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Web.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Windows.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\dotnet.7.0.20.njh7q36myg.js.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\Images\mapa.jpg
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\Images\plansza1.jpg
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\blazor.boot.json
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\CaptainFlip.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\CaptainFlip.pdb
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\CaptainFlip.dll.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\CaptainFlip.pdb.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\CaptainFlip.staticwebassets.runtime.json
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\CaptainFlip.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\CaptainFlip.pdb
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.JSInterop.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Pipelines.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.CSharp.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.VisualBasic.Core.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.VisualBasic.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Win32.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\Microsoft.Win32.Registry.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.AppContext.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Buffers.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Collections.Concurrent.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Collections.Immutable.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Collections.NonGeneric.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Collections.Specialized.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Collections.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.Annotations.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.TypeConverter.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ComponentModel.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Configuration.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Console.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Core.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Data.Common.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Data.DataSetExtensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Data.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.Contracts.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.Debug.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.Process.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.StackTrace.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.Tools.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.TraceSource.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Diagnostics.Tracing.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Drawing.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Drawing.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Dynamic.Runtime.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Formats.Asn1.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Formats.Tar.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Globalization.Calendars.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Globalization.Extensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Globalization.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Compression.Brotli.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Compression.FileSystem.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Compression.ZipFile.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Compression.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.FileSystem.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.FileSystem.Watcher.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.FileSystem.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.IsolatedStorage.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.MemoryMappedFiles.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Pipes.AccessControl.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.Pipes.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.IO.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Linq.Expressions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Linq.Parallel.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Linq.Queryable.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Linq.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Memory.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Http.Json.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Http.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.HttpListener.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Mail.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.NameResolution.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.NetworkInformation.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Ping.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Quic.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Requests.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Security.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.ServicePoint.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.Sockets.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.WebClient.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.WebHeaderCollection.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.WebProxy.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.WebSockets.Client.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.WebSockets.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Net.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Numerics.Vectors.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Numerics.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ObjectModel.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Private.DataContractSerialization.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Private.Uri.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Private.Xml.Linq.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Private.Xml.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.DispatchProxy.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Emit.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Extensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Metadata.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.TypeExtensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Reflection.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Resources.Reader.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Resources.ResourceManager.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Resources.Writer.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Extensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Handles.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.InteropServices.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Intrinsics.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Loader.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Numerics.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Serialization.Json.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Serialization.Xml.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.Serialization.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Runtime.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.AccessControl.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Claims.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.Cng.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.Csp.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.Encoding.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.Primitives.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Cryptography.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Principal.Windows.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.Principal.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.SecureString.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Security.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ServiceModel.Web.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ServiceProcess.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.Encoding.Extensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.Encoding.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.Encodings.Web.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.Json.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Text.RegularExpressions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Channels.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Overlapped.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Tasks.Extensions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Tasks.Parallel.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Tasks.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Thread.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.ThreadPool.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.Timer.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Threading.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Transactions.Local.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Transactions.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.ValueTuple.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Web.HttpUtility.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Web.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Windows.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.Linq.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.ReaderWriter.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.Serialization.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.XDocument.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.XPath.XDocument.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.XPath.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.XmlDocument.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.XmlSerializer.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Xml.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\WindowsBase.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\mscorlib.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\netstandard.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\System.Private.CoreLib.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\dotnet.js
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\dotnet.timezones.blat
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\dotnet.wasm
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\icudt_CJK.dat
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\icudt_EFIGS.dat
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\bin\Release\net7.0\icudt_no_CJK.dat
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.csproj.AssemblyReference.cache
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.AssemblyInfo.cs
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\blazor.build.boot-extension.json
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\blazor.boot.json
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets.build.json
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets.development.json
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets\msbuild.CaptainFlip.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets\msbuild.build.CaptainFlip.props
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.CaptainFlip.props
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.CaptainFlip.props
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\staticwebassets.pack.json
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\scopedcss\bundle\CaptainFlip.styles.css
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\tlu9o98oc9.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9wxo3tqkfu.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\6u5cfxf5i5.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xf4l87xgx7.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\sowl77zqsp.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\f93x9z8lo1.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\b7sgpiwjgw.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\97iax4bdam.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\19gf8imjp5.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\4c052vaeak.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ergc91u049.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\1f0rhqh435.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\nkhql09mnz.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\yc2v4wc4q0.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\yi4feyasb4.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\4lmfvoika1.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\w6jn41pcsd.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\wjnndzjs4r.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\7mblvnh290.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\y8ojn8dosn.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\1dsyyk5wcz.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\f1tesrrq46.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zh7zl4p2xd.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\yp8l36iqe9.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\93bok834hn.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ces9k2qvyi.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\22bvqlgc59.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xf9wvie459.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2uo11gcpyz.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\vm86savkf1.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\qmemtru5co.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\wx7dt97i2l.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zxwcposgfw.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9k4absl5js.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\68nlkza9xk.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\hdo7ti9273.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\7778v5n6mc.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\aryoiuov71.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zuwyr4zxu3.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zx17ukqvqz.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\mib4uhjovq.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\o1psxmcqlz.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\uuwcw5e7pt.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\92u4s0tg8z.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\mh5qenmqds.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\t4jy2dgug1.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\7mi1fpqn9l.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ylwo1vy813.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xrw55t10km.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ckhnu8au6b.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\x9v6t788xh.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\m1hnjkko79.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\gd7ersibf1.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\hecn4argdq.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\l8vs6s80pe.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ya436jxjyn.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\w78v43mjmo.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xblvk13v0g.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\1ckxvd9h77.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\jpj55wp5ay.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\f5wfyjjsjw.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\tzyc8j20dt.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\rlnh6djjea.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pwg61ke9df.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\k9y2a1uemc.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\tqo3e0ujhm.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\bp4826tvxs.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\vn3qkdx5tn.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9w1y933tzp.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zk3bka2cj2.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\e5jet0qsx3.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\jv646f9ogu.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\3veiy44u81.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\x8fltfd3wx.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\dje38m6ycp.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\srl83tgj2j.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9vndf31gp0.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\sz4kvqwlan.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\bwle64zum3.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\exmpple3wh.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2f9cfz1jqy.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\yqxlebixo1.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2g6t6ulkxk.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\am4sw01bwk.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\achh6q1x70.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\40v2elouqz.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\fmmzlxon1j.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\nsi75j4kaz.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\le811xhlqv.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\59dszkddjf.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\77lw1yz44t.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\gwpq02ju7s.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\njxyk72agu.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\jja7vxea5y.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\lms15aw5yi.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\z77j28l6gu.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ckzae17ciw.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\jzp3q86eg7.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xbv0gajmdk.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2rei2oo51a.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\yje1krspoc.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\hawmypgti6.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\73wuy243j7.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2k4x35peye.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\2z42eh1x2w.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\d8ozyevhml.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\nt3jdqivi4.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\fnxqrde1tv.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\b3p7tacpsi.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\kiebc8jth1.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\cm7h8u4b66.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\u6c26ycrlm.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zkmjk6afcl.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\f8ja4tyufa.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\c93py74t4n.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ywao3wark9.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xkiyass99w.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ul36640lrj.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\53l29tsc7i.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\abkfrr9m1s.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\5zqfs18lh2.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\1eb75jo5uz.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\d68dndd2ml.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\otvf9mpwno.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\nsu7f5bx39.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\diqq1heoob.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\drmdju7k50.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\umq5ok380q.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\j7asxqlej4.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\lr51t0aef9.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\a67ht8zm9b.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ps3vvtevwf.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pjsdre02l2.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\8i7jf74p7o.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\7uik1ozlq4.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xr3ph0wqv1.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\mfu56z4sam.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\60yv2kzi02.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\1gyt8a5sq5.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\qci4b4di7k.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\8xtso888rh.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\a1osx3hswf.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\46qiqugagf.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\sxnbkt9b0n.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\l6ert9mzqw.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9twzdu9jx3.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\nc2ccp556h.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\84gjk988gv.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\fdc9ro9new.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\xkznn5zj7m.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\tggkpxsevg.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pcbd7nj7sc.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\y44ayvmqqo.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\mw5a265wqf.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\78jbo6cx3h.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\kp3pxe8ldi.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\zivkarry9j.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\uhbof3bxz0.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\x6ukn1w4r7.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\0w3o8v877p.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\iroi5783zn.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pqfyn2tjdk.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\6udeubpymp.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\fl9dfp6ixk.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\0e1bvrlhe6.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ca46dr0m1w.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\9xr3j3jjqf.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\psqw48nimh.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\691nofgg5c.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\85qh79aqqu.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\gis7781acg.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\vt97u17q7v.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\soj2w1wuv1.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ymolbuvjxl.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\96yw8vmkeu.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\p1mmnccxk5.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\cbt1o1ra8m.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\0hmy363v9x.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\traxznhcp2.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pjpsyji99k.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\r6xpu0r6qx.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\smslhg6inu.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\14jaluztl2.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\d5h2hlpa3b.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\a3ku3sflfs.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\5dqiwhaojv.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\a5c0yxd0t6.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ratvst71ym.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\wfrj5unhxp.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\byo4dseqt1.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\vvmenqtm5h.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\c8mefipnev.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\njh7q36myg.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\gzu9tptcsg.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\53w8f9pr9i.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\qnco0g6fwi.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\l8t5s4oiyl.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\4x9dwtk7b8.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\jfs00sexm2.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\ouqz6jvs9q.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\compressed\pdh2x0v428.gz
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainF.2E06EDBB.Up2Date
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\refint\CaptainFlip.dll
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\CaptainFlip.pdb
+C:\Users\marek\Desktop\work\CaptainFlip\CaptainFlip\obj\Release\net7.0\ref\CaptainFlip.dll
